@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="HSQLDB (Remote) - default@localhost" uuid="7dc2d833-e533-48ab-944c-281111a7d814">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="HSQLDB (Remote) - default@localhost [2]" uuid="8809bb3a-111f-4ff3-ba38-473e47df5841">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="HSQLDB (Remote) - default@localhost" uuid="7dc2d833-e533-48ab-944c-281111a7d814">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="HSQLDB (Remote) - default@localhost [2]" uuid="8809bb3a-111f-4ff3-ba38-473e47df5841">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
